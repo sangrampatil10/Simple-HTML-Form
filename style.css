@@ -1,0 +1,39 @@
+body {
+  
+    background-color : #DC143C;
+      text-align: center;
+   
+}
+form {
+    display: inline-block;
+}
+
+label {
+    cursor: pointer;
+    color: #FFFFFF;
+    font-size:30px;
+}
+
+h1
+{
+    color: #FFFFFF;
+}
+option {
+    cursor: pointer;
+    color: #920040;
+    font-size:20px;
+}
+
+input {
+    cursor: pointer;
+    color: #920040;
+    font-size:20px;
+}
+
+input[type=checkbox] {
+    zoom: 1.5;
+}
+
+input[type=radio] {
+    zoom: 1.5;
+}
